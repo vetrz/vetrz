@@ -28,6 +28,7 @@ My interests lie in Artificial Intelligence, particularly Agent Systems. I'm als
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 **Other**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
