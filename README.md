@@ -1,17 +1,17 @@
-# Hi, I'm Vitor Cardoso 🌿
+# Hi, I'm Vitor Cardoso 🍂
 ### vetrz · he/him
 
 Hello, my name is Vitor Cardoso. I am a Computer Science student at the Federal University of Pará and a researcher at the Intelligence and Data Laboratory (LID).
 
 My interests lie in Artificial Intelligence, particularly Agent Systems. I'm also a Computer Science enthusiast in general, with a strong interest in Software Development.
 
-## 🍃 About me
+## 🍁 About me
 - Focused on Machine Learning, LLMs and Agent Systems
 - Always learning new AI techniques and architectures
 - Enjoy turning research into practical projects
 - Reach me: [Email](#moraesvitor29@gmail.com)
 
-## 🌱 Tech Stack
+## 🌾 Tech Stack
 
 **AI & Data**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
